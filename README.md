@@ -28,11 +28,15 @@
 4 - Digitar no browser http://localhost/Projeto/index.php/. <br>
 <br>
 
-## Projeto - Pequenas Empresas - Cookies
+## Projeto - Site de Doces
 
-Este foi o projeto de um site para uma pequena empresa, especializada em Cookies. <br>
+Este foi o projeto de um site para pequenas empresas. <br>
 Desenvolvida uma ideia básica com três páginas principais e 4 páginas secundárias, sendo elas:<br>
 - Home (exibindo básico dos produtos)
 - Sobre
 - Contato
-- Páginas detalhadas sobre cada produto
+- 4 páginas detalhadas sobre cada produto
+
+#### HOME
+<img alt="Home" title="#Home" src="https://i.imgur.com/3Sypi22.jpg" />
+
