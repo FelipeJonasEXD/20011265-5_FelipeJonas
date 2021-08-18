@@ -22,7 +22,7 @@
 
 ### Utilizando Xampp 
 
-1 - Realize o download e instalação do Xampp.
-2 - Após abrir o aplicativo, dê um "Start" no serviço "Apache".
-3 - Colocar o projeto na pasta xampp/htdocs/(Projeto Aqui).  
-4 - Digitar no browser http://localhost/Projeto/index.php/.
+1 - Realize o download e instalação do Xampp. <br>
+2 - Após abrir o aplicativo, dê um "Start" no serviço "Apache". <br>
+3 - Colocar o projeto na pasta xampp/htdocs/(Projeto Aqui). <br>
+4 - Digitar no browser http://localhost/Projeto/index.php/. <br>
