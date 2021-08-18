@@ -11,7 +11,7 @@ Tabela de conteúdos
       * [Home](#home)
       * [Sobre](#sobre)
       * [Contato](#contato)
-      * [Produto 1](#Ex:-Produto-1)
+      * [Produto 1](#Produto-1)
 
 ###  
 
@@ -63,6 +63,6 @@ Desenvolvida uma ideia básica com três páginas principais e 4 páginas secund
 <img alt="Contato" title="#Contato" src="https://i.imgur.com/3pUSp7K.jpg" />
 <br>
 
-#### EX: PRODUTO 1
+#### PRODUTO 1
 <img alt="Produto 1" title="#Produto1" src="https://i.imgur.com/BnVHrvc.jpg" />
 <br>
