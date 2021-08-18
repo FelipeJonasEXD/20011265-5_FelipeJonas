@@ -1,29 +1,21 @@
 <h1 align="center"> 20011265-5_FelipeJonas </h1>
 
+Tabela de conteúdos
+=================
+<!--ts-->
+   * [Dados Acadêmicos](#dados-acadêmicos)
+   * [Linguagens](#linguagens)
+   * [Pre-Requisitos](#pre-requisitos)
+   * [Xampp](#utilizando-xampp)
+
+###  
+
 ## DADOS ACADÊMICOS
 
 <b>Nome</b>: Felipe Jonas <br>
 <b>RA</b>: 20011265-5 <br>
 <b>Curso</b>: Sistemas para Internet <br>
 <b>Matéria</b>: BackEnd I <br>
-
-Tabela de conteúdos
-=================
-<!--ts-->
-   * [Sobre](#sobre)
-   * [Tabela de Conteudo](#tabela-de-conteudo)
-   * [Status do Projeto](#status-do-projeto)
-   * [Imagens](#imagens)
-   * [Como usar](#como-usar)
-      * [Pre Requisitos](#pre-requisitos)
-      * [Xampp](#Utilizando-Xampp)
-      * [VSCode](#utilizando-vscode)
-   * [Tecnologias](#tecnologias)
-   * [Autor](#autor)
-   * [Referencias](#referencias)
-   * [Licença](#licença)
-
-###  
 
 ## Linguagens
 - HTML
