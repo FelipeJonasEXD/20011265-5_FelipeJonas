@@ -8,6 +8,10 @@ Tabela de conteúdos
    * [Pre-Requisitos](#pre-requisitos)
    * [Xampp](#utilizando-xampp)
    * [Projeto do Site](#projeto---site-de-doces)
+      * [Home](#home)
+      * [Sobre](#sobre)
+      * [Contato](#contato)
+         * [Produto 1](#ex:-produto-1)
 
 ###  
 
@@ -41,10 +45,10 @@ Tabela de conteúdos
 
 Este foi o projeto de um site para pequenas empresas. <br>
 Desenvolvida uma ideia básica com três páginas principais e 4 páginas secundárias, sendo elas:<br>
-- Home (exibindo básico dos produtos)
-- Sobre
-- Contato
-- 4 páginas detalhadas sobre cada produto
+- <b>Home</b> (exibindo básico dos produtos)
+- <b>Sobre</b>
+- <b>Contato</b>
+- <b>4 páginas detalhadas sobre cada produto</b>
 <br>
 
 #### HOME
