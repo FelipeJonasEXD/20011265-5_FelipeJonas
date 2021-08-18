@@ -36,7 +36,19 @@ Desenvolvida uma ideia básica com três páginas principais e 4 páginas secund
 - Sobre
 - Contato
 - 4 páginas detalhadas sobre cada produto
-
+<br>
 #### HOME
 <img alt="Home" title="#Home" src="https://i.imgur.com/3Sypi22.jpg" />
+<br>
 
+#### SOBRE
+<img alt="Sobre" title="#Sobre" src="https://i.imgur.com/zYl2huB.jpg" />
+<br>
+
+#### CONTATO
+<img alt="Contato" title="#Contato" src="https://i.imgur.com/3pUSp7K.jpg" />
+<br>
+
+#### EX: PRODUTO 1
+<img alt="Produto 1" title="#Produto1" src="https://i.imgur.com/BnVHrvc.jpg" />
+<br>
