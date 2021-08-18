@@ -7,6 +7,7 @@ Tabela de conteúdos
    * [Linguagens](#linguagens)
    * [Pre-Requisitos](#pre-requisitos)
    * [Xampp](#utilizando-xampp)
+   * [Projeto do Site](#projeto-site-de-doces)
 
 ###  
 
