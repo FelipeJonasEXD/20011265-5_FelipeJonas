@@ -15,7 +15,7 @@ Tabela de conteúdos
 
 ###  
 
-## DADOS ACADÊMICOS
+## Dados Acadêmicos
 
 <b>Nome</b>: Felipe Jonas <br>
 <b>RA</b>: 20011265-5 <br>
