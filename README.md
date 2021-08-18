@@ -26,8 +26,9 @@
 2 - Após abrir o aplicativo, dê um "Start" no serviço "Apache". <br>
 3 - Colocar o projeto na pasta xampp/htdocs/(Projeto Aqui). <br>
 4 - Digitar no browser http://localhost/Projeto/index.php/. <br>
+<br>
 
-### Projeto - Pequenas Empresas - Cookies
+## Projeto - Pequenas Empresas - Cookies
 
 Este foi o projeto de um site para uma pequena empresa, especializada em Cookies. <br>
 Desenvolvida uma ideia básica com três páginas principais e 4 páginas secundárias, sendo elas:<br>
