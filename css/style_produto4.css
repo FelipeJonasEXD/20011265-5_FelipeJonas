@@ -1,0 +1,85 @@
+@import url('https://fonts.googleapis.com/css?family=Poppins:200,300,400,500,600,700,800,900&display=swap');
+
+/* HOME E BASE PARA OUTRAS */
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Poppins', sans-serif;
+}
+
+section {
+    position: relative;
+    width: 100%;
+    min-height: 100vh;
+    padding: 100px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background: #ffe2f4 !important;
+}
+
+
+.content {
+    position: relative;
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.content .textBox {
+    position: relative;
+    height: 400;
+    max-width: 800px;
+    border: solid 6px #e589c1;
+    padding: 12px;
+}
+
+.content .textBox h2 {
+    color: #333;
+    font-size: 3.5em;
+    line-height: 1.4em;
+    font-weight: 800 !important;   
+}
+
+.content .textBox h2 span {
+    color: #e589c1 !important;
+    font-size: 1.2em;
+    font-weight: 900;
+}
+
+.content .textBox p {
+    color: #333;
+    max-width: 600px;
+}
+
+.content .textBox a {
+    display: inline-block;
+    margin-top: 104px !important;
+    padding: 8px 10px !important;
+    background: #e589c1 !important;
+    color: #fff;
+    border-radius: 10px !important;
+    font-weight: 500;
+    letter-spacing: 1px;
+    text-decoration: none;
+    margin-left: 500px;
+}
+
+.content .imgBox {
+    width: 600px;
+    display: flex;
+    justify-content: flex-end;
+    padding-right: 50px;
+    margin-top: 50px;
+}
+
+.content .imgBox img {
+    max-width: 500px;
+}
+
+
+
+
